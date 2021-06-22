@@ -23,7 +23,7 @@ The Health care reform law enacted in March 2010 (sometimes known as ACA, PPACA,
  1. How has the US population grown over two decades?
  2. Which States have gained the highest momentum of settlement?
  3. What percent of the population had insurance coverage prior to ACA act and after ACA act? Which States achieved better vs worst results?
-
+ 4. How does the Uninsured Population represented in terms of ethnicity?
 
 TOOLS USED
 
