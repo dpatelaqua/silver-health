@@ -28,11 +28,12 @@ The Health care reform law enacted in March 2010 (sometimes known as ACA, PPACA,
 **TOOLS USED**
 
 `Excel` - Insurance & Population data was provided as 10 separate workbooks, which were extracted in appropriate format and merged in Python for further cleaning.
-
 `Python/Pandas` - for exploration and aggregation of the data
-
 `Power BI` - for creating interactive dashboard
-
 `Atom` - Code for editing html/markdown files
-
 `Git` for version control
+
+**Sources**
+- https://www.census.gov/topics/health/health-insurance/data/tables.html
+- https://data.census.gov/
+- https://www.census.gov/library/
