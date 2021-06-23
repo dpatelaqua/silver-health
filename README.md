@@ -25,13 +25,15 @@ The Health care reform law enacted in March 2010 (sometimes known as ACA, PPACA,
  3. What percent of the population had insurance coverage prior to ACA act and after ACA act? Which States achieved better vs worst results?
  4. How does the Uninsured Population represented in terms of ethnicity?
 
-**TOOLS USED**
+**Tools Used**
 
-`Excel` - Insurance & Population data was provided as 10 separate workbooks, which were extracted in appropriate format and merged in Python for further cleaning.
-`Python/Pandas` - for exploration and aggregation of the data
-`Power BI` - for creating interactive dashboard
-`Atom` - Code for editing html/markdown files
-`Git` for version control
+- `Excel` - Insurance & Population data was provided as 10 separate workbooks, which were extracted in appropriate format and merged in Python for further cleaning.
+- `Python/Pandas` - for exploration and aggregation of the data
+- `Power BI` - for creating interactive dashboard
+- `Atom` - Code for editing html/markdown files
+- `Git` for version control
+
+**Presentation**
 
 **Sources**
 - https://www.census.gov/topics/health/health-insurance/data/tables.html
