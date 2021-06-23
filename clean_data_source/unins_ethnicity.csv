@@ -1,89 +1,89 @@
-Ethnicity,Year,Uninsured
-All races,2019,323121000
-White,2019,233212000
-"White, not Hispanic",2019,194023000
-Black,2019,40702000
-American Indian and Alaska Native,2019,2778000
-Asian,2019,18534000
-Native Hawaiian and other Pacific Islander,2019,613000
-Hispanic (any race),2019,59687000
-All races,2018,322249000
-White,2018,233038000
-"White, not Hispanic",2018,194357000
-Black,2018,40385000
-American Indian and Alaska Native,2018,2732000
-Asian,2018,18317000
-Native Hawaiian and other Pacific Islander,2018,612000
-Hispanic (any race),2018,59022000
-All races,2017,320775000
-White,2017,232333000
-"White, not Hispanic",2017,194574000
-Black,2017,40148000
-American Indian and Alaska Native,2017,2660000
-Asian,2017,18130000
-Native Hawaiian and other Pacific Islander,2017,594000
-Hispanic (any race),2017,58105000
-All races,2016,318176000
-White,2016,231461000
-"White, not Hispanic",2016,194757000
-Black,2016,39645000
-American Indian and Alaska Native,2016,2615000
-Asian,2016,17468000
-Native Hawaiian and other Pacific Islander,2016,583000
-Hispanic (any race),2016,56670000
-All races,2015,316451000
-White,2015,231747000
-"White, not Hispanic",2015,194814000
-Black,2015,39427000
-American Indian and Alaska Native,2015,2531000
-Asian,2015,17191000
-Native Hawaiian and other Pacific Islander,2015,542000
-Hispanic (any race),2015,55763000
-All races,2014,313890000
-White,2014,230758000
-"White, not Hispanic",2014,194662000
-Black,2014,39131000
-American Indian and Alaska Native,2014,2535000
-Asian,2014,16602000
-Native Hawaiian and other Pacific Islander,2014,544000
-Hispanic (any race),2014,54561000
-All races,2013,311158000
-White,2013,229778000
-"White, not Hispanic",2013,194652000
-Black,2013,38642000
-American Indian and Alaska Native,2013,2461000
-Asian,2013,15934000
-Native Hawaiian and other Pacific Islander,2013,513000
-Hispanic (any race),2013,53265000
-All races,2012,308896000
-White,2012,228795000
-"White, not Hispanic",2012,194497000
-Black,2012,38326000
-American Indian and Alaska Native,2012,2502000
-Asian,2012,15471000
-Native Hawaiian and other Pacific Islander,2012,531000
-Hispanic (any race),2012,52229000
-All races,2011,306561000
-White,2011,227608000
-"White, not Hispanic",2011,194284000
-Black,2011,37898000
-American Indian and Alaska Native,2011,2482000
-Asian,2011,14938000
-Native Hawaiian and other Pacific Islander,2011,494000
-Hispanic (any race),2011,51237000
-All races,2010,304288000
-White,2010,226129000
-"White, not Hispanic",2010,194090000
-Black,2010,37571000
-American Indian and Alaska Native,2010,2487000
-Asian,2010,14649000
-Native Hawaiian and other Pacific Islander,2010,494000
-Hispanic (any race),2010,50049000
-All races,2009,301472000
-White,2009,226132000
-"White, not Hispanic",2009,196099000
-Black,2009,36725000
-American Indian and Alaska Native,2009,2394000
-Asian,2009,13683000
-Native Hawaiian and other Pacific Islander,2009,440000
-Hispanic (any race),2009,47661000
+Ethnicity,Year,Date_Key,Uninsured
+All races,2019,12/31/2019,323121000
+White,2019,12/31/2019,233212000
+"White, not Hispanic",2019,12/31/2019,194023000
+Black,2019,12/31/2019,40702000
+American Indian and Alaska Native,2019,12/31/2019,2778000
+Asian,2019,12/31/2019,18534000
+Native Hawaiian and other Pacific Islander,2019,12/31/2019,613000
+Hispanic (any race),2019,12/31/2019,59687000
+All races,2018,12/31/2018,322249000
+White,2018,12/31/2018,233038000
+"White, not Hispanic",2018,12/31/2018,194357000
+Black,2018,12/31/2018,40385000
+American Indian and Alaska Native,2018,12/31/2018,2732000
+Asian,2018,12/31/2018,18317000
+Native Hawaiian and other Pacific Islander,2018,12/31/2018,612000
+Hispanic (any race),2018,12/31/2018,59022000
+All races,2017,12/31/2017,320775000
+White,2017,12/31/2017,232333000
+"White, not Hispanic",2017,12/31/2017,194574000
+Black,2017,12/31/2017,40148000
+American Indian and Alaska Native,2017,12/31/2017,2660000
+Asian,2017,12/31/2017,18130000
+Native Hawaiian and other Pacific Islander,2017,12/31/2017,594000
+Hispanic (any race),2017,12/31/2017,58105000
+All races,2016,12/31/2016,318176000
+White,2016,12/31/2016,231461000
+"White, not Hispanic",2016,12/31/2016,194757000
+Black,2016,12/31/2016,39645000
+American Indian and Alaska Native,2016,12/31/2016,2615000
+Asian,2016,12/31/2016,17468000
+Native Hawaiian and other Pacific Islander,2016,12/31/2016,583000
+Hispanic (any race),2016,12/31/2016,56670000
+All races,2015,12/31/2015,316451000
+White,2015,12/31/2015,231747000
+"White, not Hispanic",2015,12/31/2015,194814000
+Black,2015,12/31/2015,39427000
+American Indian and Alaska Native,2015,12/31/2015,2531000
+Asian,2015,12/31/2015,17191000
+Native Hawaiian and other Pacific Islander,2015,12/31/2015,542000
+Hispanic (any race),2015,12/31/2015,55763000
+All races,2014,12/31/2014,313890000
+White,2014,12/31/2014,230758000
+"White, not Hispanic",2014,12/31/2014,194662000
+Black,2014,12/31/2014,39131000
+American Indian and Alaska Native,2014,12/31/2014,2535000
+Asian,2014,12/31/2014,16602000
+Native Hawaiian and other Pacific Islander,2014,12/31/2014,544000
+Hispanic (any race),2014,12/31/2014,54561000
+All races,2013,12/31/2013,311158000
+White,2013,12/31/2013,229778000
+"White, not Hispanic",2013,12/31/2013,194652000
+Black,2013,12/31/2013,38642000
+American Indian and Alaska Native,2013,12/31/2013,2461000
+Asian,2013,12/31/2013,15934000
+Native Hawaiian and other Pacific Islander,2013,12/31/2013,513000
+Hispanic (any race),2013,12/31/2013,53265000
+All races,2012,12/31/2012,308896000
+White,2012,12/31/2012,228795000
+"White, not Hispanic",2012,12/31/2012,194497000
+Black,2012,12/31/2012,38326000
+American Indian and Alaska Native,2012,12/31/2012,2502000
+Asian,2012,12/31/2012,15471000
+Native Hawaiian and other Pacific Islander,2012,12/31/2012,531000
+Hispanic (any race),2012,12/31/2012,52229000
+All races,2011,12/31/2011,306561000
+White,2011,12/31/2011,227608000
+"White, not Hispanic",2011,12/31/2011,194284000
+Black,2011,12/31/2011,37898000
+American Indian and Alaska Native,2011,12/31/2011,2482000
+Asian,2011,12/31/2011,14938000
+Native Hawaiian and other Pacific Islander,2011,12/31/2011,494000
+Hispanic (any race),2011,12/31/2011,51237000
+All races,2010,12/31/2010,304288000
+White,2010,12/31/2010,226129000
+"White, not Hispanic",2010,12/31/2010,194090000
+Black,2010,12/31/2010,37571000
+American Indian and Alaska Native,2010,12/31/2010,2487000
+Asian,2010,12/31/2010,14649000
+Native Hawaiian and other Pacific Islander,2010,12/31/2010,494000
+Hispanic (any race),2010,12/31/2010,50049000
+All races,2009,12/31/2009,301472000
+White,2009,12/31/2009,226132000
+"White, not Hispanic",2009,12/31/2009,196099000
+Black,2009,12/31/2009,36725000
+American Indian and Alaska Native,2009,12/31/2009,2394000
+Asian,2009,12/31/2009,13683000
+Native Hawaiian and other Pacific Islander,2009,12/31/2009,440000
+Hispanic (any race),2009,12/31/2009,47661000
