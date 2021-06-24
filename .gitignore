@@ -2,6 +2,10 @@
 # Other Files
 data/
 deliverables/
+final/
+.jpeg
+clean_data_source2/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

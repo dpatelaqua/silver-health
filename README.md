@@ -23,7 +23,7 @@ The Health care reform law enacted in March 2010 (sometimes known as ACA, PPACA,
  1. How has the US population grown over two decades?
  2. Which States have gained the highest momentum of settlement?
  3. What percent of the population had insurance coverage prior to ACA act and after ACA act? Which States achieved better vs worst results?
- 4. How does the Uninsured Population represented in terms of ethnicity?
+
 
 **Tools Used**
 
@@ -34,6 +34,9 @@ The Health care reform law enacted in March 2010 (sometimes known as ACA, PPACA,
 - `Git` for version control
 
 **Presentation**
+
+Please see the link below for an interactive dashboard.
+https://app.powerbi.com/view?r=eyJrIjoiN2JiZjc3OTQtOGM4MC00OTJjLTlmZjItOTc4ZWY0MzBhOWJkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 **Sources**
 - https://www.census.gov/topics/health/health-insurance/data/tables.html
